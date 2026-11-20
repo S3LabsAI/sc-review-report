@@ -9,7 +9,7 @@ Standalone HTML performance review reports for **Supreme Choice Insurance Soluti
 ## Files
 
 - `index.html` — Report hub (landing page) linking to every current report
-- `Supreme-Choice-*-10-9-26.html` — Current campaign reports (Campaign Overview, Home, Auto; last 3 months through Oct 9, 2026)
+- `Supreme-Choice-*-11-20-26.html` — Current campaign reports (Campaign Overview, Home, Auto; last 60 days, Sep 22 – Nov 20, 2026)
 - `Supreme-Choice-SEO-Audit-*.html`, `Supreme-Choice-CA-*.html` — Website and market research reports
 - `past reports/` — Archived reports, excluded from Vercel deploys via `.vercelignore`
 
