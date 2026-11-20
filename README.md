@@ -18,6 +18,7 @@ The current review package (November 20, 2026 account review):
 | `Supreme-Choice-Campaign-Overview-Last-60-Days-11-20-26.html` | All-campaigns overview (Home + Auto) — last 60 days, Sep 22 – Nov 20, 2026 |
 | `Supreme-Choice-Home-Campaign-Performance-Last-60-Days-11-20-26.html` | CA Home campaign performance — last 60 days, Sep 22 – Nov 20, 2026 |
 | `Supreme-Choice-Auto-Campaign-Performance-Last-60-Days-11-20-26.html` | CA Auto campaign performance — last 60 days, Sep 22 – Nov 20, 2026 |
+| `Supreme-Choice-Platform-Opportunities-Last-60-Days-11-20-26.html` | Platform deep dive (delivery days, hours, sources, property type, county) — last 60 days, Sep 22 – Nov 20, 2026 |
 | `Supreme-Choice-SEO-Audit-9-9-26.html` | supreme-choice.com SEO audit — measured Sep 9, 2026 |
 | `Supreme-Choice-CA-Brush-Fire-Risk-7-28-26.html` | California brush fire risk market research — Jul 28, 2026 |
 | `Supreme-Choice-CA-Demographic-Research-7-28-26.html` | California demographic market research — Jul 28, 2026 |
