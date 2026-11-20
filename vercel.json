@@ -1,5 +1,12 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": false,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/Supreme-Choice-Platform-Opportunities-Last-60-Days-11-20-26.html",
+      "destination": "/Supreme-Choice-Performance-Deep-Dive-Last-60-Days-11-20-26.html",
+      "permanent": true
+    }
+  ]
 }
