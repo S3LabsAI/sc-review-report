@@ -10,19 +10,19 @@ Reports include KPI dashboards, campaign breakdowns, call review analyses, conta
 
 ## Reports
 
-The current review package (October 9, 2026 account review):
+The current review package (November 20, 2026 account review):
 
 | File | Description |
 |------|-------------|
 | `index.html` | Landing page / report hub — sidebar layout with cards linking to the campaign and research reports |
-| `Supreme-Choice-Campaign-Overview-Last-3-Months-10-9-26.html` | All-campaigns overview (Home + Auto) — last 3 months through Oct 9, 2026 |
-| `Supreme-Choice-Home-Campaign-Performance-Last-3-Months-10-9-26.html` | CA Home campaign performance — last 3 months through Oct 9, 2026 |
-| `Supreme-Choice-Auto-Campaign-Performance-Last-3-Months-10-9-26.html` | CA Auto campaign performance — last 3 months through Oct 9, 2026 |
+| `Supreme-Choice-Campaign-Overview-Last-60-Days-11-20-26.html` | All-campaigns overview (Home + Auto) — last 60 days, Sep 22 – Nov 20, 2026 |
+| `Supreme-Choice-Home-Campaign-Performance-Last-60-Days-11-20-26.html` | CA Home campaign performance — last 60 days, Sep 22 – Nov 20, 2026 |
+| `Supreme-Choice-Auto-Campaign-Performance-Last-60-Days-11-20-26.html` | CA Auto campaign performance — last 60 days, Sep 22 – Nov 20, 2026 |
 | `Supreme-Choice-SEO-Audit-9-9-26.html` | supreme-choice.com SEO audit — measured Sep 9, 2026 |
 | `Supreme-Choice-CA-Brush-Fire-Risk-7-28-26.html` | California brush fire risk market research — Jul 28, 2026 |
 | `Supreme-Choice-CA-Demographic-Research-7-28-26.html` | California demographic market research — Jul 28, 2026 |
 
-Earlier reports (including the superseded Oct 9 last-60-days set) are archived under `past reports/` (kept in the repo, excluded from the live Vercel site via `.vercelignore`).
+Earlier reports (including the superseded Oct 9 sets) are archived under `past reports/` (kept in the repo, excluded from the live Vercel site via `.vercelignore`).
 
 ## Deployment
 
